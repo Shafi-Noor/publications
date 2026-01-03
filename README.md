@@ -1,4 +1,4 @@
-RESEARCH  PUBLICATIONS
+RESEARCH  PUBLICATIONS of Shafi Noor
 
 1. Noor, S. and Rahman, A. (2019), “Recent advances in the use of remote labs in fluid mechanics: a review”, Chapter 18 in the book “Blended Learning in Engineering Education: Recent Developments in Curriculum, Assessment and Practice”, pp. 291-303, CRC Press. ISBN: 9781138056220.
 https://www.taylorfrancis.com/chapters/recent-advances-use-remote-labs-fluid-mechanics-noor-rahman/e/10.1201/9781315165486-18   
